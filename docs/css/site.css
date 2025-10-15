@@ -3075,7 +3075,7 @@ html[data-whatintent=mouse] .page-node-type-article .node--type-article .author:
 @media screen and (min-width: 1024px) {
   .path-events .view-display-id-page_upcoming_events .views-row {
     margin: 0 0 2.5rem;
-    padding: 0 1.875rem 2.5rem; } }
+    padding: 0 1rem 2.5rem; } }
 
 @media screen and (min-width: 1200px) {
   .path-events .view-display-id-page_upcoming_events .views-row {
@@ -4559,7 +4559,6 @@ html[data-whatintent=mouse] .region-navigation .navigation-container .menu--main
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
-    border-bottom: .125rem solid #000;
     margin: 0;
     padding: .625rem 0; } }
 
@@ -4590,7 +4589,7 @@ html[data-whatintent=mouse] .region-navigation .navigation-container .menu--main
   justify-content: center;
   -webkit-transition: background 250ms;
   transition: background 250ms;
-  padding: 1.875rem 0; }
+  padding-bottom: 0.75rem; }
 
 @media screen and (min-width: 1200px) {
   #block-sidebarpatreonlink .field--name-field-link > a {
