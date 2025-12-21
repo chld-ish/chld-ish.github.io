@@ -1,9 +1,9 @@
 all: build
 
-HOMEBREW_PREFIX = /opt/homebrew
-RUBY_BINDIR = $(HOMEBREW_PREFIX)/opt/ruby/bin
+HOMEBREW_PREFIX = /usr/local
+RUBY_BINDIR = ~/.rbenv/versions/3.4.0/bin
 RUBY = $(RUBY_BINDIR)/ruby
-BUNDLER = $(RUBY_BINDIR)/bundle
+BUNDLER = /Users/ruthejane/.rbenv/versions/3.4.0/lib/ruby/gems/3.4.0+1/gems/bundler-2.6.2/exe/bundle
 
 BUNDLER_CACHE = vendor
 MIDDLEMAN = bin/middleman
@@ -38,3 +38,6 @@ $(TIDY):
 
 validate valid lint:: build $(TIDY)
 	find docs -iname \*.html -print0 | xargs -0 -n 1 $(TIDY) $(TIDY_FLAGS)
+
+distclean:
+		rm -rf $(BUNDLER_CACHE) bin
