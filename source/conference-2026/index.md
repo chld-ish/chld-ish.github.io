@@ -1,23 +1,30 @@
 
 <img src="../images/26ConferenceBanner.png" alt="Language: Minds and Bodies Conference Banner" style="width:100%; margin: 0 0 20px 0;" />
 
-<div style="margin: 20px 0;">
+<div style="text-align:center; margin: 40px 0;">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSec4KSsoAYuMqxS0G9lUg2cqTuxwS121g_d2PvUNc1ZazurfQ/viewform?pli=1"
      target="_blank" rel="noopener"
      style="
-       display:block;
-       text-align:center;
-       background:#00c853;
-       padding:20px;
-       border-radius:14px;
-       font-size:24px;
-       font-weight:800;
-       color:white;
-       text-decoration:none;
-     ">
-    SUBMIT HERE
+        display:inline-block;
+        padding: 18px 40px;
+        background:#c62828;          /* deep red like 2025 site */
+        color:white;
+        font-size:28px;
+        font-weight:800;
+        text-decoration:none;
+        border-radius:8px;
+        border:4px solid #8e0000;     /* darker red outline */
+        letter-spacing:1px;
+        box-shadow:0px 4px 8px rgba(0,0,0,0.2);
+        transition: all 0.2s ease-in-out;
+     "
+     onmouseover="this.style.background='#8e0000'; this.style.transform='scale(1.03)'"
+     onmouseout="this.style.background='#c62828'; this.style.transform='scale(1)'"
+  >
+    SUBMIT HERE!
   </a>
 </div>
+
 ---
 
 Historically, mind/body dualism has pervaded the social sciences and humanities – but to what extent are such distinctions useful? The study of language reveals, at minimum, that both minds and bodies are involved in language production and comprehension. On the one hand, linguistics and cognitive science typically approach human language in terms of higher-order structures (e.g., syntax) that organize and express thoughts. On the other hand, linguistic communication draws heavily on the body (e.g., gestures, lip reading, vocal cords, the brain) and, in turn, influences bodily states (e.g., emotionally-laden words may increase heart rate in conversation). Moreover, the term ‘body’ is not limited to the physical existence of an individual but also includes political, social, and cultural bodies. How do social practices, discourses, and institutions also shape our linguistic practices? Human language bridges the mind and body, the physical and immaterial, as well as the individual and social, making investigations into the nature of language ideally situated to overcome these long-lasting dualisms.
