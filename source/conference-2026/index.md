@@ -1,4 +1,3 @@
-
 <img src="../images/26ConferenceBanner.png" alt="Language: Minds and Bodies Conference Banner" style="width:100%; margin-bottom: 30px;" />
 
 <div style="text-align:center; margin: 40px 0;">
@@ -49,7 +48,7 @@ languageconference@newschool.edu
 
 ### Language and Mind
 - How do people use language to express "hidden thoughts”?
-- E.M. Forster said, "How can I know what I think until I see what I say?" What does this reveal about the relationship between articulation and self-discovery?
+- “How can I know what I think until I see what I say?” What does this reveal about the relationship between articulation and self-discovery?
 - Where in the body does language live? Where does it live in the world?
 - What does it mean that “the unconscious is structured like a language”?
 - How does language connect mind(s) and bodies?
@@ -57,13 +56,13 @@ languageconference@newschool.edu
 ### Language: Politics, Culture, & Society
 - How can we understand organizations and political bodies as “speaking bodies” that both regulate and are regulated by language?
 - How do societal norms and the body politic influence language use or shape our understanding of the world?
-- Does linguistics miss key elements of language use by focusing on higher-order linguistic structures i.e., syntax, morphology, etc.?
+- Does linguistics miss key elements of language use by focusing on higher-order linguistic structures?
 - How do linguistic practices sustain, contest, or transform the structures of communities/political bodies?
 - How do different cultures communicate through body language?
 
 ### Language, Technology, & the Future
 - What happens to language when the body is altered, limited, or technologically extended? (VR environments, disability, plastic surgery?)
-- What can AI tell us about the unique features of human to human interactions? What is the role of the human mind and body in discovering AI?
+- What can AI tell us about human-to-human interaction? What is the role of the human mind and body in discovering AI?
 - How does internet culture influence our vocabularies? How has mass digitalization shaped our understanding of language and meaning?
 - How do memes influence our shared vocabularies and vice versa?
 - How do we speak to technology?
