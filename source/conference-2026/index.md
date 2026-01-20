@@ -16,7 +16,11 @@
         letter-spacing:1px;
         box-shadow:0 4px 10px rgba(0,0,0,0.22);
      ">
+<div class="button-wrapper" style="text-align:center; margin: 40px 0;">
+  <a class="button" href="https://docs.google.com/forms/d/e/1FAIpQLSec4KSsoAYuMqxS0G9lUg2cqTuxwS121g_d2PvUNc1ZazurfQ/viewform?pli=1" target="_blank">
     SUBMIT HERE!
+  </a>
+</div>
   </a>
 </div>
 
