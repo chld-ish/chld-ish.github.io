@@ -1,6 +1,3 @@
----
-title: "Language: Minds and Bodies — Graduate Student Conference 2026"
----
 
 <img src="../images/26ConferenceBanner.png" alt="Language: Minds and Bodies Conference Banner" style="width:100%; margin: 0 0 20px 0;" />
 
@@ -21,14 +18,6 @@ title: "Language: Minds and Bodies — Graduate Student Conference 2026"
     SUBMIT HERE
   </a>
 </div>
-
-# Language: Minds and Bodies  
-### Graduate Multidisciplinary Conference  
-### The Human Language & Development Lab — The New School for Social Research
-
-**Friday, April 17** — 6PM–9PM  
-**Saturday, April 18** — 8AM–6PM
-
 ---
 
 Historically, mind/body dualism has pervaded the social sciences and humanities – but to what extent are such distinctions useful? The study of language reveals, at minimum, that both minds and bodies are involved in language production and comprehension. On the one hand, linguistics and cognitive science typically approach human language in terms of higher-order structures (e.g., syntax) that organize and express thoughts. On the other hand, linguistic communication draws heavily on the body (e.g., gestures, lip reading, vocal cords, the brain) and, in turn, influences bodily states (e.g., emotionally-laden words may increase heart rate in conversation). Moreover, the term ‘body’ is not limited to the physical existence of an individual but also includes political, social, and cultural bodies. How do social practices, discourses, and institutions also shape our linguistic practices? Human language bridges the mind and body, the physical and immaterial, as well as the individual and social, making investigations into the nature of language ideally situated to overcome these long-lasting dualisms.
