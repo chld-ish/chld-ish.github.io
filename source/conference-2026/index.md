@@ -2,7 +2,7 @@
 title: "Language: Minds and Bodies — Graduate Student Conference 2026"
 ---
 
-<img src="/images/26ConferenceBanner.png" alt="Language: Minds and Bodies Conference Banner" style="width:100%; margin: 0 0 20px 0;" />
+<img src="../images/26ConferenceBanner.png" alt="Language: Minds and Bodies Conference Banner" style="width:100%; margin: 0 0 20px 0;" />
 
 <div style="margin: 20px 0;">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSec4KSsoAYuMqxS0G9lUg2cqTuxwS121g_d2PvUNc1ZazurfQ/viewform?pli=1"
