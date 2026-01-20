@@ -35,13 +35,13 @@
 </div>
 
 ---
-April 17, 6PM-9PM (moderated keynote discussion panel, welcome reception)
-
+**April 17, 6PM-9PM** 
+Moderated keynote discussion panel, & welcome reception
 Wolff Conference Room, The New School
 6 East 16th Street, New York, NY, 10011
 
-April 18, 9AM-6PM (panel talks, poster session, lunch and closing reception)
-
+**April 18, 9AM-6PM** 
+Panel talks, poster session, lunch, & closing reception
 Starr Foundation Hall
 University Center, UL102
 63 Fifth Avenue, New York, NY, 10011
