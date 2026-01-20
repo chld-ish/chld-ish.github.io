@@ -1,26 +1,22 @@
 
-<img src="../images/26ConferenceBanner.png" alt="Language: Minds and Bodies Conference Banner" style="width:100%; margin: 0 0 20px 0;" />
+<img src="../images/26ConferenceBanner.png" alt="Language: Minds and Bodies Conference Banner" style="width:100%; margin-bottom: 30px;" />
 
 <div style="text-align:center; margin: 40px 0;">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSec4KSsoAYuMqxS0G9lUg2cqTuxwS121g_d2PvUNc1ZazurfQ/viewform?pli=1"
      target="_blank" rel="noopener"
      style="
         display:inline-block;
-        padding: 18px 40px;
-        background:#c62828;          /* deep red like 2025 site */
+        padding:18px 42px;
+        background:#CC0000;
         color:white;
         font-size:28px;
         font-weight:800;
         text-decoration:none;
         border-radius:8px;
-        border:4px solid #8e0000;     /* darker red outline */
+        border:4px solid #990000;
         letter-spacing:1px;
-        box-shadow:0px 4px 8px rgba(0,0,0,0.2);
-        transition: all 0.2s ease-in-out;
-     "
-     onmouseover="this.style.background='#8e0000'; this.style.transform='scale(1.03)'"
-     onmouseout="this.style.background='#c62828'; this.style.transform='scale(1)'"
-  >
+        box-shadow:0 4px 10px rgba(0,0,0,0.22);
+     ">
     SUBMIT HERE!
   </a>
 </div>
