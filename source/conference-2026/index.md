@@ -1,3 +1,13 @@
+<div align="center" style="margin: 40px 0 30px 0;">
+  <table cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
+    <tr>
+      <td bgcolor="#CC0000" style="padding: 18px 44px; border: 4px solid #990000;">
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSec4KSsoAYuMqxS0G9lUg2cqTuxwS121g_d2PvUNc1ZazurfQ/viewform?pli=1"
+           target="_blank" rel="noopener"
+           style="text-decoration:none;">
+          <font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="6">
+
+
 <img src="../images/26ConferenceBanner.png" alt="Language: Minds and Bodies Conference Banner" style="width:100%; margin-bottom: 30px;" />
 
 <div style="text-align:center; margin: 40px 0;">
@@ -25,10 +35,20 @@
 </div>
 
 ---
+April 17, 6PM-9PM (moderated keynote discussion panel, welcome reception)
+Wolff Conference Room, The New School
+6 East 16th Street, New York, NY, 10011
 
-Historically, mind/body dualism has pervaded the social sciences and humanities – but to what extent are such distinctions useful? The study of language reveals, at minimum, that both minds and bodies are involved in language production and comprehension. On the one hand, linguistics and cognitive science typically approach human language in terms of higher-order structures (e.g., syntax) that organize and express thoughts. On the other hand, linguistic communication draws heavily on the body (e.g., gestures, lip reading, vocal cords, the brain) and, in turn, influences bodily states (e.g., emotionally-laden words may increase heart rate in conversation). Moreover, the term ‘body’ is not limited to the physical existence of an individual but also includes political, social, and cultural bodies. How do social practices, discourses, and institutions also shape our linguistic practices? Human language bridges the mind and body, the physical and immaterial, as well as the individual and social, making investigations into the nature of language ideally situated to overcome these long-lasting dualisms.
+April 18, 9AM-6PM (panel talks, poster session, lunch and closing reception)
+Starr Foundation Hall
+University Center, UL102
+63 Fifth Avenue, New York, NY, 10011
+
+---
 
 The Human Language and Development Lab is hosting its third annual interdisciplinary graduate-student conference. This year, the conference is titled: **Language: Minds and Bodies**. We invite work that examines how minds and bodies co-inform language – how they may constitute distinct yet complementary modes of expression, how embodied experience shapes meaning, and how mental and physical processes collaborate in the production, comprehension, and development of language.
+
+Historically, mind/body dualism has pervaded the social sciences and humanities – but to what extent are such distinctions useful? The study of language reveals, at minimum, that both minds and bodies are involved in language production and comprehension. On the one hand, linguistics and cognitive science typically approach human language in terms of higher-order structures (e.g., syntax) that organize and express thoughts. On the other hand, linguistic communication draws heavily on the body (e.g., gestures, lip reading, vocal cords, the brain) and, in turn, influences bodily states (e.g., emotionally-laden words may increase heart rate in conversation). Moreover, the term ‘body’ is not limited to the physical existence of an individual but also includes political, social, and cultural bodies. How do social practices, discourses, and institutions also shape our linguistic practices? Human language bridges the mind and body, the physical and immaterial, as well as the individual and social, making investigations into the nature of language ideally situated to overcome these long-lasting dualisms.
 
 This interdisciplinary conference welcomes submissions from graduate students in the humanities, social sciences, natural sciences, fine and performing arts, and anyone else who is eager to share their innovative work on language. This conference is inspired by the twin observations that opportunities designed specifically to initiate cross-disciplinary collaborations are rare, and that graduate students are ideally poised to take advantage of such opportunities to generate influential new insights and frameworks.
 
