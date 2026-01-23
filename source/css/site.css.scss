@@ -1180,6 +1180,13 @@ ul.social {
     font-size: 1.1em;
 }
 
+ul.questions {
+    font-size: 1em;
+    text-align: left;
+    padding-left: 5%;
+    padding-right: 5%
+}
+
 ul.news {
 
 }
@@ -1198,6 +1205,10 @@ li.news-item::marker {
 em,h1 em,h1 i,h2 em,h2 i,h3 em,h3 i,h4 em,h4 i,h5 em,h5 i,h6 em,h6 i {
     font-family: 'Futura';
     font-weight: 400;
+}
+
+li.question {
+    font-weight: normal
 }
 
 #main-site-title {
@@ -5680,7 +5691,7 @@ html[data-whatintent=mouse] .region-navigation .navigation-container .menu--main
     justify-content: center;
     -webkit-transition: background 250ms;
     transition: background 250ms;
-    padding-bottom:0.75rem;
+    padding:0.75rem 0;
 }
 
 @media screen and (min-width: 1024px) {
@@ -6831,4 +6842,8 @@ h2.talk-title a, h2.talk-title {
     line-height: 1;
     font-weight: 400;
     text-decoration: none;
+}
+h3.theme {
+    font-weight:200;
+    font-size: 1.5em;
 }
