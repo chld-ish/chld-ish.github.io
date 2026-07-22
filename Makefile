@@ -26,7 +26,7 @@ $(HOMEBREW_PREFIX):
 	@echo 'We need Homebrew in order to install some dependencies. Please install it by going to https://brew.sh and following the instructions there.'
 	@false
 
-$(RBENV) $(RUBY_BUILD): $(HOMEBREW_PREFIX)
+$(RBENV) $(RUBY_BUILD): | $(HOMEBREW_PREFIX)
 	@echo 'We need rbenv and ruby-build in order to install the correct version of ruby. Please install them by running `brew install rbenv ruby-build`.'
 	@false
 
@@ -54,7 +54,7 @@ build: $(MIDDLEMAN)
 preview serve: $(MIDDLEMAN)
 	$(RUBY) $(MIDDLEMAN) serve
 
-$(TIDY): $(HOMEBREW_PREFIX)
+$(TIDY): | $(HOMEBREW_PREFIX)
 	@echo 'Please install HTML5 Tidy using the command \`brew install tidy-html5\`.'
 	@echo 'Note that there is an ancient version of tidy installed with macOS into'
 	@echo '/usr/bin/tidy, but that is not the one we need, the one we need will be'
